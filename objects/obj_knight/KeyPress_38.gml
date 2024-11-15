@@ -1,0 +1,1 @@
+if place_meeting(x,y,obj_line) || place_meeting(x,y,obj_line_end) y-=32

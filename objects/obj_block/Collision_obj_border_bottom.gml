@@ -1,0 +1,1 @@
+//creator.bottom_collision=1;

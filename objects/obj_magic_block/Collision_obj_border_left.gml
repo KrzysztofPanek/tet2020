@@ -1,0 +1,1 @@
+//creator.left_collision=1;

@@ -1,0 +1,1 @@
+if line_drop==-1 line_drop=1
